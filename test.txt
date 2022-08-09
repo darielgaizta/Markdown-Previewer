@@ -1,0 +1,31 @@
+## Emphasis
+
+There are *__two ways__* to write _italic_ and **bold** text.
+
+## Unordered List
+
+* Item 1
+* Item 2
+
+## Ordered List
+
+1. Item 1
+2. Item 2
+3. Item 3
+  i. Item 3a
+  ii. Item 3b
+
+## Images
+
+![This is a alt text.](https://i.pinimg.com/736x/4e/71/8e/4e718e2f3cf7e017b77725fe0a1a393c.jpg "This is a sample image.")
+
+## Blocks of code
+
+```
+def heh():
+  print('HEH')
+```
+
+## Links
+
+You may want to see my [github](https://github.com/darielgaizta).
